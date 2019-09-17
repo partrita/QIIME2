@@ -1,0 +1,17 @@
+sampleid	forward-absolute-filepath	reverse-absolute-filepath
+F3D1	$PWD/fastq_data/F3D1_R1_001.fastq	$PWD/fastq_data/F3D1_R2_001.fastq
+F3D142	$PWD/fastq_data/F3D142_R1_001.fastq	$PWD/fastq_data/F3D142_R2_001.fastq
+F3D143	$PWD/fastq_data/F3D143_R1_001.fastq	$PWD/fastq_data/F3D143_R2_001.fastq
+F3D144	$PWD/fastq_data/F3D144_R1_001.fastq	$PWD/fastq_data/F3D144_R2_001.fastq
+F3D145	$PWD/fastq_data/F3D145_R1_001.fastq	$PWD/fastq_data/F3D145_R2_001.fastq
+F3D146	$PWD/fastq_data/F3D146_R1_001.fastq	$PWD/fastq_data/F3D146_R2_001.fastq
+F3D147	$PWD/fastq_data/F3D147_R1_001.fastq	$PWD/fastq_data/F3D147_R2_001.fastq
+F3D148	$PWD/fastq_data/F3D148_R1_001.fastq	$PWD/fastq_data/F3D148_R2_001.fastq
+F3D149	$PWD/fastq_data/F3D149_R1_001.fastq	$PWD/fastq_data/F3D149_R2_001.fastq
+F3D150	$PWD/fastq_data/F3D150_R1_001.fastq	$PWD/fastq_data/F3D150_R2_001.fastq
+F3D2	$PWD/fastq_data/F3D2_R1_001.fastq	$PWD/fastq_data/F3D2_R2_001.fastq
+F3D3	$PWD/fastq_data/F3D3_R1_001.fastq	$PWD/fastq_data/F3D3_R2_001.fastq
+F3D5	$PWD/fastq_data/F3D5_R1_001.fastq	$PWD/fastq_data/F3D5_R2_001.fastq
+F3D6	$PWD/fastq_data/F3D6_R1_001.fastq	$PWD/fastq_data/F3D6_R2_001.fastq
+F3D7	$PWD/fastq_data/F3D7_R1_001.fastq	$PWD/fastq_data/F3D7_R2_001.fastq
+Mock	$PWD/fastq_data/Mock_R1_001.fastq	$PWD/fastq_data/Mock_R2_001.fastq

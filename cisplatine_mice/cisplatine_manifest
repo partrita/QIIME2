@@ -1,0 +1,11 @@
+sample-id	absolute-filepath
+1L_1	$PWD/raw_data/fastq/1L_1.fastq
+1S_1	$PWD/raw_data/fastq/1S_1.fastq
+2L_1	$PWD/raw_data/fastq/2L_1.fastq
+2S_1	$PWD/raw_data/fastq/2S_1.fastq
+4L_1	$PWD/raw_data/fastq/4L_1.fastq
+4S_1	$PWD/raw_data/fastq/4S_1.fastq
+5L_1	$PWD/raw_data/fastq/5L_1.fastq
+5S_1	$PWD/raw_data/fastq/5S_1.fastq
+6L_1	$PWD/raw_data/fastq/6L_1.fastq
+6S_1	$PWD/raw_data/fastq/6S_1.fastq

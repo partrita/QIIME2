@@ -1,0 +1,9 @@
+sample-id	absolute-filepath
+1L_2	$PWD/2nd/1L_1.fastq.gz
+1S_2	$PWD/2nd/1S_1.fastq.gz
+2L_2	$PWD/2nd/2L_1.fastq.gz
+2S_2	$PWD/2nd/2S_1.fastq.gz
+4L_2	$PWD/2nd/4L_1.fastq.gz
+4S_2	$PWD/2nd/4S_1.fastq.gz
+5S_2	$PWD/2nd/5L_1.fastq.gz
+5L_2	$PWD/2nd/5S_1.fastq.gz

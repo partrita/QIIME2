@@ -1,0 +1,11 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+1L_1	$PWD/1st/1L_1.fastq.gz	$PWD/1st/1L_2.fastq.gz
+1S_1	$PWD/1st/1S_1.fastq.gz	$PWD/1st/1S_2.fastq.gz
+2L_1	$PWD/1st/2L_1.fastq.gz	$PWD/1st/2L_2.fastq.gz
+2S_1	$PWD/1st/2S_1.fastq.gz	$PWD/1st/2S_2.fastq.gz
+4L_1	$PWD/1st/4L_1.fastq.gz	$PWD/1st/4L_2.fastq.gz
+4S_1	$PWD/1st/4S_1.fastq.gz	$PWD/1st/4S_2.fastq.gz
+5L_1	$PWD/1st/5L_1.fastq.gz	$PWD/1st/5L_2.fastq.gz
+5S_1	$PWD/1st/5S_1.fastq.gz	$PWD/1st/5S_2.fastq.gz
+6L_1	$PWD/1st/6L_1.fastq.gz	$PWD/1st/6L_2.fastq.gz
+6S_1	$PWD/1st/6S_1.fastq.gz	$PWD/1st/6S_2.fastq.gz

@@ -1,0 +1,11 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+Man_1	$PWD/data/01-Man_1.fastq	$PWD/data/01-Man_2.fastq
+Man_2	$PWD/data/02-Man_1.fastq	$PWD/data/02-Man_2.fastq
+Man_3	$PWD/data/03-Man_1.fastq	$PWD/data/03-Man_2.fastq
+Man_4	$PWD/data/04-Man_1.fastq	$PWD/data/04-Man_2.fastq
+Man_5	$PWD/data/05-Man_1.fastq	$PWD/data/05-Man_2.fastq
+Man_6	$PWD/data/06-Man_1.fastq	$PWD/data/06-Man_2.fastq
+Man_7	$PWD/data/07-Man_1.fastq	$PWD/data/07-Man_2.fastq
+Man_8	$PWD/data/08-Man_1.fastq	$PWD/data/08-Man_2.fastq
+Man_9	$PWD/data/09-Man_1.fastq	$PWD/data/09-Man_2.fastq
+Man_10	$PWD/data/10-Man_1.fastq	$PWD/data/10-Man_2.fastq

@@ -1,0 +1,12 @@
+sample-id	mouse-id	organ	year	cisplatine
+#q2:types	categorical	categorical	numeric	categorical
+1S_1	mouse1	small_intestine	2018	No
+1L_1	mouse1	lage_intestine	2018	No
+2S_1	mouse2	small_intestine	2018	No
+2L_1	mouse2	lage_intestine	2018	No
+4S_1	mouse4	small_intestine	2019	Yes
+4L_1	mouse4	lage_intestine	2019	Yes
+5S_1	mouse5	small_intestine	2019	Yes
+5L_1	mouse5	lage_intestine	2019	Yes
+6S_1	mouse6	small_intestine	2019	Yes
+6L_1	mouse6	lage_intestine	2019	Yes
