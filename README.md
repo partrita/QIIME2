@@ -10,11 +10,27 @@
 > QIIME 2™ is a next-generation microbiome bioinformatics platform that is extensible, free, open source, and community developed.
 
 
-# 규칙.1
+# 규칙1
 
 1. 각 분석은 개별 폴더를 만들어 사용한다.
 2. 관련 데이터는 각 폴더안에 들어가야한다.
 3. 분석과정은 주피터 노트북(`.ipynb`)안에 명시한다.
+
+#  규칙2
+
+각각의 개별 폴더의 구성은 아래 처럼 한다.
+
+```
+./data
+./output
+analysis.ipynb
+manifest
+metadata.tsv
+```
+
+1. `output` 폴더는 코드 실행시 생성되는 파일로 언제는 삭제가 가능한 것만 넣는다.
+2. `data` 폴더는 원본 데이터만 넣고 수정하지 않는다.
+
 
 # 파일용량이 큰 경우
 

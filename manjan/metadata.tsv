@@ -1,12 +1,12 @@
-sample-id	number	control 
-#q2:types	numeric	categorical
-Man_1	1	1
-Man_2	2	2
-Man_3	3	3
-Man_4	4	4
-Man_5	5	5
-Man_6	6	6
-Man_7	7	7
-Man_8	8	8
-Man_9	9	9
-Man_10	10	10
+sample-id	year	group	site	sampling_site
+#q2:types	numeric	categorical	categorical	categorical
+Man_1	2019	1	start	red
+Man_2	2019	1	start	corrosion
+Man_3	2019	2	mid	yellowmat
+Man_4	2019	2	mid	microbialmat
+Man_5	2019	3	mid	near_light
+Man_6	2019	3	mid	near_light
+Man_7	2019	4	end	lichen
+Man_8	2019	4	end	lichen
+Man_9	2019	3	mid	near_light
+Man_10	2019	5	out	soil
