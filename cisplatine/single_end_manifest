@@ -7,3 +7,5 @@ sample-id	absolute-filepath
 4S_2	$PWD/2nd/4S_1.fastq.gz
 5S_2	$PWD/2nd/5L_1.fastq.gz
 5L_2	$PWD/2nd/5S_1.fastq.gz
+6S_2	$PWD/2nd/6L_1.fastq.gz
+6L_2	$PWD/2nd/6S_1.fastq.gz
